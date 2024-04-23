@@ -798,6 +798,16 @@
             "rid": "win"
           }
         }
+      },
+      "Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entity.dll": {}
+        }
       }
     }
   },
@@ -2287,10 +2297,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "path": "../Entity/Entity.csproj",
+      "msbuildProject": "../Entity/Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Entity >= 1.0.0",
       "Microsoft.Data.SqlClient >= 5.2.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
@@ -2327,7 +2343,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ANA ROSA\\Desktop\\almacen\\dev\\cSharp\\QrHorario\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\ANA ROSA\\Desktop\\almacen\\dev\\cSharp\\QrHorario\\Entity\\Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,16 +1,15 @@
 ﻿using System.Data.SqlClient;
 using System.Data;
-using System;
-using System.Threading.Tasks;
+
 
 namespace Data.SQLClient
 {
-    public class SQLClient
+    public class SQLclient
     {
 
         private readonly string _connectionString;
 
-        public SQLClient(string connectionString)
+        public SQLclient(string connectionString)
         {
             _connectionString = connectionString;
         }
