@@ -1,0 +1,5 @@
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
