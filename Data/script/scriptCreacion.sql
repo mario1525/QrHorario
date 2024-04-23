@@ -18,7 +18,8 @@ PRINT 'creacion de la tabla Horarios'
 IF NOT EXISTS(SELECT NAME FROM sysobjects WHERE NAME = 'Horarios')
 BEGIN
     CREATE TABLE dbo.Horarios(
-        id										 VARCHAR(36) NOT NULL DEFAULT '', 
+        id										 VARCHAR(36) NOT NULL DEFAULT '',
+        Salon       							 VARCHAR(255) NOT NULL DEFAULT '',
         Nombre_Archivo							 VARCHAR(255) NOT NULL DEFAULT '',
         Extension								 VARCHAR(10) NOT NULL DEFAULT '', 
 		Formato								     VARCHAR(255) NOT NULL DEFAULT '', 

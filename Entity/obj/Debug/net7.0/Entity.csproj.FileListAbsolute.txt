@@ -1,0 +1,11 @@
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\ANA ROSA\Desktop\almacen\dev\cSharp\QrHorario\Entity\obj\Debug\net7.0\ref\Entity.dll
