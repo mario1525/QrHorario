@@ -60,6 +60,27 @@ namespace Data
 
         }
 
+        public async Task<DataTable> GetSalon(String Salon)
+        {
+            string procedureName = "dbo.db_sp_Horario_buscar";
+            SqlParameter[] parameters =
+            {
+                new SqlParameter("@Salon", Salon),
+            };
+            return await _sqlClient.ExecuteStoredProcedure(procedureName, parameters);
+
+        }
+
+        public async Task<DataTable> deleteHorario(String id)
+        {
+            string procedureName = "dbo.db_sp_Horario_Del";
+            SqlParameter[] parameters =
+            {
+                new SqlParameter("@Id", id),
+            };
+            return await _sqlClient.ExecuteStoredProcedure(procedureName, parameters);
+        }
+
         #endregion
     }
 }
